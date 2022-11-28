@@ -1,4 +1,6 @@
-**Walkthrough** to [Word Frequency App.](https://hp-word-frequency.netlify.app/)
+**Walkthrough** to [Word Frequency App.](https://hp-word-frequency.netlify.app/) 
+
+Live App : https://hp-word-frequency.netlify.app/ 
 
 - User **clicks submit** button to fetch data.
 
