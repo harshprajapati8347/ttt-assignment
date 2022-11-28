@@ -17,7 +17,9 @@ const App = () => {
   const fetchData = async () => {
     try {
       setLoading(true);
-      const response = await fetch("ttt.txt");
+      const response = await fetch(
+        "https://www.terriblytinytales.com/test.txt"
+      );
       const data = await response.text();
       const words = data.split(" ");
       const wordCount = {};
